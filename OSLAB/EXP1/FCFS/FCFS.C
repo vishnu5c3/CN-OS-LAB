@@ -5,4 +5,5 @@ Schedule:16.09.2022*/
 #include <stdio.h>
     int main(){
 	printf("Hello World\n");
+    }
 
